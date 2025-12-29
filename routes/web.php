@@ -42,7 +42,6 @@ Route::get('/', [ProductController::class, 'index']);
 
 
 
-
 // Show Create Form                              ->middleware('auth') can only assess when user logged in
  
 
